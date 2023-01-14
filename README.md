@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://ibb.co/kmXgd5t/>
+  <img src=https://ibb.co/VL8FqNd />
 </p>
 
 <h1 align = center> Welcome to my Profile, I'm Srikesh </h1><h3 align = center> Aspiring Data Analyst</h3><br>
