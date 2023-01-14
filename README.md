@@ -1,5 +1,4 @@
-<h1 align = center> Welcome to my Profile, I'm Srikesh </h1>
-<br> <h3 align = center> Aspiring Data Analyst</h3>
+<h1 align = center> Welcome to my Profile, I'm Srikesh </h1><br><h3 align = center> Aspiring Data Analyst</h3>
 
 💬 Ask me about Pandas, SQL, Power BI, Excel, Tableau, Python, R
 
