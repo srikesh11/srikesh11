@@ -1,7 +1,6 @@
-# <center> Welcome to my Profile, I'm Srikesh </center>
+# <div align = center> Welcome to my Profile, I'm Srikesh </div>
 <br>
-
-# Aspiring Data Analyst
+# <div align = center>Aspiring Data Analyst</div>
 
 ### Hi there 👋
 
