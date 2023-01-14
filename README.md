@@ -1,6 +1,8 @@
-# Welcome to my Profile, I'm Srikesh
+# <center> Welcome to my Profile, I'm Srikesh </center>
 <br>
+
 # Aspiring Data Analyst
+
 ### Hi there 👋
 
 <!--
