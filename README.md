@@ -1,4 +1,5 @@
-<h1 align = center> Welcome to my Profile, I'm Srikesh </h1><br><h3 align = center> Aspiring Data Analyst</h3>
+<h1 align = center> Welcome to my Profile, I'm Srikesh </h1><h3 align = center> Aspiring Data Analyst</h3><br>
+<iframe align = "right" src="https://giphy.com/embed/grlkPWm6vpdRqZqMQV" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-grlkPWm6vpdRqZqMQV">via GIPHY</a></p>
 
 💬 Ask me about Pandas, SQL, Power BI, Excel, Tableau, Python, R
 
