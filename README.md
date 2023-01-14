@@ -1,5 +1,5 @@
 <h1 align = center> Welcome to my Profile, I'm Srikesh </h1><h3 align = center> Aspiring Data Analyst</h3><br>
-<img align = "right" alt = "data" src="https://media1.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif?cid=ecf05e47awlyo6czgpropgyrfark9ho5g0ao6ibp816qgyr3&rid=giphy.gif&ct=g" width="480" height="480"/>
+<img align = "right" alt = "data" src="https://media1.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif?cid=ecf05e47awlyo6czgpropgyrfark9ho5g0ao6ibp816qgyr3&rid=giphy.gif&ct=g" width="400"/>
 
 💬 Ask me about Pandas, SQL, Power BI, Excel, Tableau, Python, R
 
