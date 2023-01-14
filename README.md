@@ -1,4 +1,4 @@
-<img src = "https://github.com/srikesh11/coursera/blob/main/frame_32_delay-0.17s.jpg" align = "center"  height = 200 width = 1500/>
+<img src = "https://github.com/srikesh11/coursera/blob/main/frame_32_delay-0.17s.jpg" align = "center"  height = 300 width = 1500/>
 
 <h1 align = center> Welcome to my Profile, I'm Srikesh </h1><h3 align = center> Aspiring Data Analyst</h3><br>
 <img align = "right" alt = "data" src="https://media1.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif?cid=ecf05e47awlyo6czgpropgyrfark9ho5g0ao6ibp816qgyr3&rid=giphy.gif&ct=g" width="400" height="400"/>
