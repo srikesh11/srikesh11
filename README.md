@@ -1,7 +1,7 @@
 <h1 align = center> Welcome to my Profile, I'm Srikesh </h1><h3 align = center> Aspiring Data Analyst</h3><br>
 <img align = "right" alt = "data" src="https://media1.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif?cid=ecf05e47awlyo6czgpropgyrfark9ho5g0ao6ibp816qgyr3&rid=giphy.gif&ct=g" width="400" height="400"/>
 
-💬 Ask me about Pandas, SQL, Power BI, Excel, Tableau, Python, R
+💬 Ask me about Mathematics, Pandas, SQL, Power BI, Excel, Tableau, Python, R
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
